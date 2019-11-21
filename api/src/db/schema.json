@@ -3,10 +3,9 @@
     "id": "string",
     "username": "string"
   },
-  "pet":{
-    "id": "string",
-    "createdAt": "number",
-    "name": "string",
-    "type": "string"
+  "pet": {
+    "id": "1234",
+    "name": "Moose",
+    "type": "DOG"
   }
 }
